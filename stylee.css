@@ -32,4 +32,15 @@ body {
         
     }
 
+
     
+    about{
+        margin-left:20px;
+    }
+    
+    button:hover{
+        background:transparent ;
+        border:1px solid white;
+        color:white;
+        transition:1s;
+    }
