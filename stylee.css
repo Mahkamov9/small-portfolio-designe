@@ -9,3 +9,27 @@ body {
 
     color:#ab0f41;
 }
+
+#im{
+
+    height:300px;
+    width:300px;
+    
+        background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7v-dPjuQV6tit534DzmEJ5Q6FgzGJIbm0A&usqp=CAU);
+        background-size:cover;
+        
+    }
+    
+    button{
+        height:40px;
+        width:100px;
+        margin-left:20px;
+        border-radius:40px;
+        border:none;
+        font-weight:bolder ;
+        background-color:#ab0f41;
+        
+        
+    }
+
+    
