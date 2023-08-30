@@ -44,3 +44,13 @@ body {
         color:white;
         transition:1s;
     }
+
+
+    ul ,li{
+        list-style:none;
+    }
+    
+    .icon{
+        display:flex;
+        margin-left:20px;
+    }
