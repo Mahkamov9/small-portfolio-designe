@@ -1,22 +1,11 @@
-body
-{
-  background: linear-gradient(45deg,#4e65ff,#92effd);  
+body {
+    background-color:black;
+    color:white;
+    font-family: 'Bebas Neue', sans-serif;
+    
 }
 
-.navigation
-{
-  position: fixed;
-  border-radius:20px;
-  top:20px;
-  right: 10px;
-  width: 130px;
-  height: 60px;
-  background: #fff;
-  box-shadow: 0 25px 35px rgba(0,0,0,0.1);
-  display: flex;
-  justify-content: space-between;
-  transition: height 0.9s,width 0.8s;
-  transition-delay: 0s,0.75s;
-  overflow: hidden;
-}
+#name{
 
+    color:#ab0f41;
+}
