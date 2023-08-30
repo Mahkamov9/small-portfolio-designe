@@ -2,7 +2,7 @@ body {
     background-color:black;
     color:white;
     font-family: 'Bebas Neue', sans-serif;
-    
+    text-align: center;
 }
 
 #name{
@@ -14,10 +14,9 @@ body {
 
     height:300px;
     width:300px;
-    
         background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7v-dPjuQV6tit534DzmEJ5Q6FgzGJIbm0A&usqp=CAU);
         background-size:cover;
-        
+        background-position-x: center;
     }
     
     button{
