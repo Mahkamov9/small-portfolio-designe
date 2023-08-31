@@ -154,3 +154,15 @@ body {
         
         
     }
+
+    button{
+        height:40px;
+        width:100px;
+        margin-left:20px;
+        border-radius:40px;
+        border:none;
+        font-weight:bolder ;
+        background-color:#ab0f41;
+        
+        
+    }
